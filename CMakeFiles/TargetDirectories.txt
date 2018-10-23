@@ -1,0 +1,3 @@
+/mnt/d/Code/C++/CoordinateTransformer+/CMakeFiles/rebuild_cache.dir
+/mnt/d/Code/C++/CoordinateTransformer+/CMakeFiles/edit_cache.dir
+/mnt/d/Code/C++/CoordinateTransformer+/CMakeFiles/CoordinateTransformer.dir
